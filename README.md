@@ -59,5 +59,5 @@ With you will get a list of the metrics per speciality, which can help you ident
 |Urology            |      0|none  |     0|acc   |↑  |0.2727|±  |0.0427|
 
 
-More info about the datasets: https://huggingface.co/datasets/HPAI-BSC/medical-specialities 
-More info about the code to classify the questions: https://github.com/HPAI-BSC/medical-specialities
+* More info about the datasets: https://huggingface.co/datasets/HPAI-BSC/medical-specialities 
+* More info about the code to classify the questions: https://github.com/HPAI-BSC/medical-specialities
