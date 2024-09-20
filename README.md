@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10256836.svg)](https://doi.org/10.5281/zenodo.10256836)
 
 ---
-Fork from the occifial lm-evaluation-harness repo with the task medical_specialities included to classify different questions into their medical specialities.
+Fork from the official lm-evaluation-harness repo with the task medical_specialities included to classify different questions into their medical specialities.
 ---
 
 ## How to use it
