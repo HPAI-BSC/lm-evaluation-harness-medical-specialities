@@ -19,4 +19,4 @@ def doc_to_text(doc) -> str:
 
 
 def doc_to_target(doc) -> int:
-    return doc["cop"]-1
+    return int(doc["cop"])-1
