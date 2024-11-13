@@ -61,3 +61,4 @@ With you will get a list of the metrics per speciality, which can help you ident
 
 * More info about the datasets: https://huggingface.co/datasets/HPAI-BSC/medical-specialities 
 * More info about the code to classify the questions: https://github.com/HPAI-BSC/medical-specialities
+* Notebook with usage example: [link](https://drive.google.com/file/d/1kbQJ1L7_Djw7n_OrtQTuJbDuXmfAtLjh/view?usp=sharing)

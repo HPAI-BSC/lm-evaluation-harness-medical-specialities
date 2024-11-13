@@ -1,0 +1,1748 @@
+{
+  "results": {
+    "Allergy": {
+      "alias": "Allergy",
+      "acc,none": 0.77,
+      "acc_stderr,none": 0.04229525846816505
+    },
+    "Anatomy": {
+      "alias": "Anatomy",
+      "acc,none": 0.6397306397306397,
+      "acc_stderr,none": 0.019714460342031014
+    },
+    "Anesthesiology": {
+      "alias": "Anesthesiology",
+      "acc,none": 0.6871165644171779,
+      "acc_stderr,none": 0.03642914578292404
+    },
+    "Biochemistry": {
+      "alias": "Biochemistry",
+      "acc,none": 0.7313877307921381,
+      "acc_stderr,none": 0.010820336821861568
+    },
+    "Cardiology": {
+      "alias": "Cardiology",
+      "acc,none": 0.6318181818181818,
+      "acc_stderr,none": 0.023019451363972328
+    },
+    "Chemistry": {
+      "alias": "Chemistry",
+      "acc,none": 0.5173745173745173,
+      "acc_stderr,none": 0.021976694449539924
+    },
+    "Dermatology": {
+      "alias": "Dermatology",
+      "acc,none": 0.7287234042553191,
+      "acc_stderr,none": 0.032513724321110764
+    },
+    "Emergency": {
+      "alias": "Emergency",
+      "acc,none": 0.5297029702970297,
+      "acc_stderr,none": 0.035204995515288814
+    },
+    "Endocrinology": {
+      "alias": "Endocrinology",
+      "acc,none": 0.6892230576441103,
+      "acc_stderr,none": 0.023198652407135027
+    },
+    "Gastroenterology": {
+      "alias": "Gastroenterology",
+      "acc,none": 0.6430260047281324,
+      "acc_stderr,none": 0.023322566110526455
+    },
+    "Genetics": {
+      "alias": "Genetics",
+      "acc,none": 0.7408088235294118,
+      "acc_stderr,none": 0.0188045638493977
+    },
+    "Geriatrics": {
+      "alias": "Geriatrics",
+      "acc,none": 0.6666666666666666,
+      "acc_stderr,none": 0.05716619504750293
+    },
+    "Gynecology": {
+      "alias": "Gynecology",
+      "acc,none": 0.7205882352941176,
+      "acc_stderr,none": 0.03861882389311725
+    },
+    "Hematology": {
+      "alias": "Hematology",
+      "acc,none": 0.6738703339882122,
+      "acc_stderr,none": 0.020799431537452038
+    },
+    "Microbiology": {
+      "alias": "Microbiology",
+      "acc,none": 0.7466110531803962,
+      "acc_stderr,none": 0.014052651829226348
+    },
+    "Nephrology": {
+      "alias": "Nephrology",
+      "acc,none": 0.673992673992674,
+      "acc_stderr,none": 0.028422142711485646
+    },
+    "Neurology": {
+      "alias": "Neurology",
+      "acc,none": 0.687089715536105,
+      "acc_stderr,none": 0.02171371940493149
+    },
+    "Nursing": {
+      "alias": "Nursing",
+      "acc,none": 0.6515151515151515,
+      "acc_stderr,none": 0.033948539651564025
+    },
+    "Obstetrics": {
+      "alias": "Obstetrics",
+      "acc,none": 0.5706214689265536,
+      "acc_stderr,none": 0.02634552539946959
+    },
+    "Odontology": {
+      "alias": "Odontology",
+      "acc,none": 0.4825174825174825,
+      "acc_stderr,none": 0.015801720209599607
+    },
+    "Oncology": {
+      "alias": "Oncology",
+      "acc,none": 0.726530612244898,
+      "acc_stderr,none": 0.028535560337128445
+    },
+    "Ophthalmology": {
+      "alias": "Ophthalmology",
+      "acc,none": 0.6357142857142857,
+      "acc_stderr,none": 0.04081733591469565
+    },
+    "Orthopedics": {
+      "alias": "Orthopedics",
+      "acc,none": 0.5806451612903226,
+      "acc_stderr,none": 0.0335752580559054
+    },
+    "Otorhinolaryngology": {
+      "alias": "Otorhinolaryngology",
+      "acc,none": 0.6698564593301436,
+      "acc_stderr,none": 0.03260698244181311
+    },
+    "Pathology": {
+      "alias": "Pathology",
+      "acc,none": 0.6494845360824743,
+      "acc_stderr,none": 0.04869701965899793
+    },
+    "Pediatrics": {
+      "alias": "Pediatrics",
+      "acc,none": 0.5748299319727891,
+      "acc_stderr,none": 0.02888133195387387
+    },
+    "Pharmacology": {
+      "alias": "Pharmacology",
+      "acc,none": 0.6806930693069307,
+      "acc_stderr,none": 0.01641130321576275
+    },
+    "Physiology": {
+      "alias": "Physiology",
+      "acc,none": 0.7306397306397306,
+      "acc_stderr,none": 0.025785321789052268
+    },
+    "Psychiatry": {
+      "alias": "Psychiatry",
+      "acc,none": 0.6507430997876857,
+      "acc_stderr,none": 0.015541125649965438
+    },
+    "Psychology": {
+      "alias": "Psychology",
+      "acc,none": 0.6466942148760331,
+      "acc_stderr,none": 0.02174960113967135
+    },
+    "Radiology": {
+      "alias": "Radiology",
+      "acc,none": 0.5842696629213483,
+      "acc_stderr,none": 0.05253771631269923
+    },
+    "Respiratory": {
+      "alias": "Respiratory",
+      "acc,none": 0.6285714285714286,
+      "acc_stderr,none": 0.025864391102285427
+    },
+    "Rheumatology": {
+      "alias": "Rheumatology",
+      "acc,none": 0.6880733944954128,
+      "acc_stderr,none": 0.0445791429269518
+    },
+    "Surgery": {
+      "alias": "Surgery",
+      "acc,none": 0.5617977528089888,
+      "acc_stderr,none": 0.03729414592947276
+    },
+    "Urology": {
+      "alias": "Urology",
+      "acc,none": 0.6181818181818182,
+      "acc_stderr,none": 0.04653429807913509
+    }
+  },
+  "group_subtasks": {
+    "Orthopedics": [],
+    "Rheumatology": [],
+    "Otorhinolaryngology": [],
+    "Physiology": [],
+    "Hematology": [],
+    "Psychology": [],
+    "Allergy": [],
+    "Geriatrics": [],
+    "Cardiology": [],
+    "Gastroenterology": [],
+    "Radiology": [],
+    "Biochemistry": [],
+    "Pharmacology": [],
+    "Respiratory": [],
+    "Surgery": [],
+    "Odontology": [],
+    "Oncology": [],
+    "Endocrinology": [],
+    "Pediatrics": [],
+    "Psychiatry": [],
+    "Chemistry": [],
+    "Anesthesiology": [],
+    "Emergency": [],
+    "Neurology": [],
+    "Nephrology": [],
+    "Anatomy": [],
+    "Pathology": [],
+    "Nursing": [],
+    "Urology": [],
+    "Ophthalmology": [],
+    "Genetics": [],
+    "Microbiology": [],
+    "Gynecology": [],
+    "Dermatology": [],
+    "Obstetrics": []
+  },
+  "configs": {
+    "Allergy": {
+      "task": "Allergy",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Allergy",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Anatomy": {
+      "task": "Anatomy",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Anatomy",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Anesthesiology": {
+      "task": "Anesthesiology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Anesthesiology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Biochemistry": {
+      "task": "Biochemistry",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Biochemistry",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Cardiology": {
+      "task": "Cardiology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Cardiology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Chemistry": {
+      "task": "Chemistry",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Chemistry",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Dermatology": {
+      "task": "Dermatology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Dermatology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Emergency": {
+      "task": "Emergency",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Emergency",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Endocrinology": {
+      "task": "Endocrinology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Endocrinology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Gastroenterology": {
+      "task": "Gastroenterology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Gastroenterology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Genetics": {
+      "task": "Genetics",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Genetics",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Geriatrics": {
+      "task": "Geriatrics",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Geriatrics",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Gynecology": {
+      "task": "Gynecology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Gynecology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Hematology": {
+      "task": "Hematology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Hematology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Microbiology": {
+      "task": "Microbiology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Microbiology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Nephrology": {
+      "task": "Nephrology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Nephrology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Neurology": {
+      "task": "Neurology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Neurology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Nursing": {
+      "task": "Nursing",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Nursing",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Obstetrics": {
+      "task": "Obstetrics",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Obstetrics",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Odontology": {
+      "task": "Odontology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Odontology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Oncology": {
+      "task": "Oncology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Oncology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Ophthalmology": {
+      "task": "Ophthalmology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Ophthalmology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Orthopedics": {
+      "task": "Orthopedics",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Orthopedics",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Otorhinolaryngology": {
+      "task": "Otorhinolaryngology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Otorhinolaryngology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Pathology": {
+      "task": "Pathology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Pathology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Pediatrics": {
+      "task": "Pediatrics",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Pediatrics",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Pharmacology": {
+      "task": "Pharmacology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Pharmacology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Physiology": {
+      "task": "Physiology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Physiology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Psychiatry": {
+      "task": "Psychiatry",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Psychiatry",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Psychology": {
+      "task": "Psychology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Psychology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Radiology": {
+      "task": "Radiology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Radiology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Respiratory": {
+      "task": "Respiratory",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Respiratory",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Rheumatology": {
+      "task": "Rheumatology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Rheumatology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Surgery": {
+      "task": "Surgery",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Surgery",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    },
+    "Urology": {
+      "task": "Urology",
+      "tag": "medical_specialities",
+      "group": "medical_specialities",
+      "dataset_path": "HPAI-BSC/medical-specialities",
+      "dataset_name": "Urology",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc) -> str:\n    \"\"\"\n    Question: <question>\n    Choices:\n    A. <choice1>\n    B. <choice2>\n    C. <choice3>\n    D. <choice4>\n    Answer:\n    \"\"\"\n    choices = [doc[\"op1\"], doc[\"op2\"], doc[\"op3\"], doc[\"op4\"]]\n    option_choices = {'A': choices[0], 'B': choices[1], 'C': choices[2], 'D': choices[3]}\n\n    prompt = \"Question: \" + doc[\"question\"][:-1] + \"\\nChoices:\\n\"\n    for choice, option in option_choices.items():\n        prompt += f\"{choice.upper()}. {option}\\n\"\n    prompt += \"Answer:\"\n    return prompt\n",
+      "doc_to_target": "def doc_to_target(doc) -> int:\n    return int(doc[\"cop\"])-1\n",
+      "doc_to_choice": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 0.0
+      }
+    }
+  },
+  "versions": {
+    "Allergy": 0.0,
+    "Anatomy": 0.0,
+    "Anesthesiology": 0.0,
+    "Biochemistry": 0.0,
+    "Cardiology": 0.0,
+    "Chemistry": 0.0,
+    "Dermatology": 0.0,
+    "Emergency": 0.0,
+    "Endocrinology": 0.0,
+    "Gastroenterology": 0.0,
+    "Genetics": 0.0,
+    "Geriatrics": 0.0,
+    "Gynecology": 0.0,
+    "Hematology": 0.0,
+    "Microbiology": 0.0,
+    "Nephrology": 0.0,
+    "Neurology": 0.0,
+    "Nursing": 0.0,
+    "Obstetrics": 0.0,
+    "Odontology": 0.0,
+    "Oncology": 0.0,
+    "Ophthalmology": 0.0,
+    "Orthopedics": 0.0,
+    "Otorhinolaryngology": 0.0,
+    "Pathology": 0.0,
+    "Pediatrics": 0.0,
+    "Pharmacology": 0.0,
+    "Physiology": 0.0,
+    "Psychiatry": 0.0,
+    "Psychology": 0.0,
+    "Radiology": 0.0,
+    "Respiratory": 0.0,
+    "Rheumatology": 0.0,
+    "Surgery": 0.0,
+    "Urology": 0.0
+  },
+  "n-shot": {
+    "Allergy": 0,
+    "Anatomy": 0,
+    "Anesthesiology": 0,
+    "Biochemistry": 0,
+    "Cardiology": 0,
+    "Chemistry": 0,
+    "Dermatology": 0,
+    "Emergency": 0,
+    "Endocrinology": 0,
+    "Gastroenterology": 0,
+    "Genetics": 0,
+    "Geriatrics": 0,
+    "Gynecology": 0,
+    "Hematology": 0,
+    "Microbiology": 0,
+    "Nephrology": 0,
+    "Neurology": 0,
+    "Nursing": 0,
+    "Obstetrics": 0,
+    "Odontology": 0,
+    "Oncology": 0,
+    "Ophthalmology": 0,
+    "Orthopedics": 0,
+    "Otorhinolaryngology": 0,
+    "Pathology": 0,
+    "Pediatrics": 0,
+    "Pharmacology": 0,
+    "Physiology": 0,
+    "Psychiatry": 0,
+    "Psychology": 0,
+    "Radiology": 0,
+    "Respiratory": 0,
+    "Rheumatology": 0,
+    "Surgery": 0,
+    "Urology": 0
+  },
+  "higher_is_better": {
+    "Allergy": {
+      "acc": true
+    },
+    "Anatomy": {
+      "acc": true
+    },
+    "Anesthesiology": {
+      "acc": true
+    },
+    "Biochemistry": {
+      "acc": true
+    },
+    "Cardiology": {
+      "acc": true
+    },
+    "Chemistry": {
+      "acc": true
+    },
+    "Dermatology": {
+      "acc": true
+    },
+    "Emergency": {
+      "acc": true
+    },
+    "Endocrinology": {
+      "acc": true
+    },
+    "Gastroenterology": {
+      "acc": true
+    },
+    "Genetics": {
+      "acc": true
+    },
+    "Geriatrics": {
+      "acc": true
+    },
+    "Gynecology": {
+      "acc": true
+    },
+    "Hematology": {
+      "acc": true
+    },
+    "Microbiology": {
+      "acc": true
+    },
+    "Nephrology": {
+      "acc": true
+    },
+    "Neurology": {
+      "acc": true
+    },
+    "Nursing": {
+      "acc": true
+    },
+    "Obstetrics": {
+      "acc": true
+    },
+    "Odontology": {
+      "acc": true
+    },
+    "Oncology": {
+      "acc": true
+    },
+    "Ophthalmology": {
+      "acc": true
+    },
+    "Orthopedics": {
+      "acc": true
+    },
+    "Otorhinolaryngology": {
+      "acc": true
+    },
+    "Pathology": {
+      "acc": true
+    },
+    "Pediatrics": {
+      "acc": true
+    },
+    "Pharmacology": {
+      "acc": true
+    },
+    "Physiology": {
+      "acc": true
+    },
+    "Psychiatry": {
+      "acc": true
+    },
+    "Psychology": {
+      "acc": true
+    },
+    "Radiology": {
+      "acc": true
+    },
+    "Respiratory": {
+      "acc": true
+    },
+    "Rheumatology": {
+      "acc": true
+    },
+    "Surgery": {
+      "acc": true
+    },
+    "Urology": {
+      "acc": true
+    }
+  },
+  "n-samples": {
+    "Obstetrics": {
+      "original": 354,
+      "effective": 354
+    },
+    "Dermatology": {
+      "original": 188,
+      "effective": 188
+    },
+    "Gynecology": {
+      "original": 136,
+      "effective": 136
+    },
+    "Microbiology": {
+      "original": 959,
+      "effective": 959
+    },
+    "Genetics": {
+      "original": 544,
+      "effective": 544
+    },
+    "Ophthalmology": {
+      "original": 140,
+      "effective": 140
+    },
+    "Urology": {
+      "original": 110,
+      "effective": 110
+    },
+    "Nursing": {
+      "original": 198,
+      "effective": 198
+    },
+    "Pathology": {
+      "original": 97,
+      "effective": 97
+    },
+    "Anatomy": {
+      "original": 594,
+      "effective": 594
+    },
+    "Nephrology": {
+      "original": 273,
+      "effective": 273
+    },
+    "Neurology": {
+      "original": 457,
+      "effective": 457
+    },
+    "Emergency": {
+      "original": 202,
+      "effective": 202
+    },
+    "Anesthesiology": {
+      "original": 163,
+      "effective": 163
+    },
+    "Chemistry": {
+      "original": 518,
+      "effective": 518
+    },
+    "Psychiatry": {
+      "original": 942,
+      "effective": 942
+    },
+    "Pediatrics": {
+      "original": 294,
+      "effective": 294
+    },
+    "Endocrinology": {
+      "original": 399,
+      "effective": 399
+    },
+    "Oncology": {
+      "original": 245,
+      "effective": 245
+    },
+    "Odontology": {
+      "original": 1001,
+      "effective": 1001
+    },
+    "Surgery": {
+      "original": 178,
+      "effective": 178
+    },
+    "Respiratory": {
+      "original": 350,
+      "effective": 350
+    },
+    "Pharmacology": {
+      "original": 808,
+      "effective": 808
+    },
+    "Biochemistry": {
+      "original": 1679,
+      "effective": 1679
+    },
+    "Radiology": {
+      "original": 89,
+      "effective": 89
+    },
+    "Gastroenterology": {
+      "original": 423,
+      "effective": 423
+    },
+    "Cardiology": {
+      "original": 440,
+      "effective": 440
+    },
+    "Geriatrics": {
+      "original": 69,
+      "effective": 69
+    },
+    "Allergy": {
+      "original": 100,
+      "effective": 100
+    },
+    "Psychology": {
+      "original": 484,
+      "effective": 484
+    },
+    "Hematology": {
+      "original": 509,
+      "effective": 509
+    },
+    "Physiology": {
+      "original": 297,
+      "effective": 297
+    },
+    "Otorhinolaryngology": {
+      "original": 209,
+      "effective": 209
+    },
+    "Rheumatology": {
+      "original": 109,
+      "effective": 109
+    },
+    "Orthopedics": {
+      "original": 217,
+      "effective": 217
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=HPAI-BSC/Llama3-Aloe-8B-Alpha",
+    "model_num_parameters": 8030261248,
+    "model_dtype": "torch.bfloat16",
+    "model_revision": "main",
+    "model_sha": "1eeb0a434aa84066acc56eb9025620dbd266fe14",
+    "batch_size": "auto",
+    "batch_sizes": [
+      1
+    ],
+    "device": "cuda:0",
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "064aa8e7",
+  "date": 1728555073.9611413,
+  "pretty_env_info": "PyTorch version: 2.4.1+cu121\nIs debug build: False\nCUDA used to build PyTorch: 12.1\nROCM used to build PyTorch: N/A\n\nOS: Ubuntu 22.04.4 LTS (x86_64)\nGCC version: (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0\nClang version: Could not collect\nCMake version: Could not collect\nLibc version: glibc-2.35\n\nPython version: 3.11.9 | packaged by conda-forge | (main, Apr 19 2024, 18:36:13) [GCC 12.3.0] (64-bit runtime)\nPython platform: Linux-5.4.0-150-generic-x86_64-with-glibc2.35\nIs CUDA available: True\nCUDA runtime version: 11.7.99\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: \nGPU 0: NVIDIA GeForce RTX 3090\nGPU 1: NVIDIA GeForce RTX 3090\n\nNvidia driver version: 530.30.02\ncuDNN version: Probably one of the following:\n/usr/lib/x86_64-linux-gnu/libcudnn.so.8.7.0\n/usr/lib/x86_64-linux-gnu/libcudnn_adv_infer.so.8.7.0\n/usr/lib/x86_64-linux-gnu/libcudnn_adv_train.so.8.7.0\n/usr/lib/x86_64-linux-gnu/libcudnn_cnn_infer.so.8.7.0\n/usr/lib/x86_64-linux-gnu/libcudnn_cnn_train.so.8.7.0\n/usr/lib/x86_64-linux-gnu/libcudnn_ops_infer.so.8.7.0\n/usr/lib/x86_64-linux-gnu/libcudnn_ops_train.so.8.7.0\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                    x86_64\nCPU op-mode(s):                  32-bit, 64-bit\nAddress sizes:                   46 bits physical, 48 bits virtual\nByte Order:                      Little Endian\nCPU(s):                          12\nOn-line CPU(s) list:             0-11\nVendor ID:                       GenuineIntel\nModel name:                      Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz\nCPU family:                      6\nModel:                           63\nThread(s) per core:              2\nCore(s) per socket:              6\nSocket(s):                       1\nStepping:                        2\nCPU max MHz:                     3600.0000\nCPU min MHz:                     1200.0000\nBogoMIPS:                        6600.20\nFlags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb invpcid_single pti intel_ppin ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts md_clear flush_l1d\nVirtualization:                  VT-x\nL1d cache:                       192 KiB (6 instances)\nL1i cache:                       192 KiB (6 instances)\nL2 cache:                        1.5 MiB (6 instances)\nL3 cache:                        15 MiB (1 instance)\nNUMA node(s):                    1\nNUMA node0 CPU(s):               0-11\nVulnerability Itlb multihit:     KVM: Vulnerable\nVulnerability L1tf:              Mitigation; PTE Inversion\nVulnerability Mds:               Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Meltdown:          Mitigation; PTI\nVulnerability Mmio stale data:   Mitigation; Clear CPU buffers; SMT vulnerable\nVulnerability Retbleed:          Not affected\nVulnerability Spec store bypass: Mitigation; Speculative Store Bypass disabled via prctl and seccomp\nVulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:        Mitigation; Retpolines, IBPB conditional, IBRS_FW, STIBP conditional, RSB filling, PBRSB-eIBRS Not affected\nVulnerability Srbds:             Not affected\nVulnerability Tsx async abort:   Not affected\n\nVersions of relevant libraries:\n[pip3] numpy==2.0.2\n[pip3] optree==0.12.1\n[pip3] torch==2.4.1+cu121\n[pip3] torchaudio==2.4.1+cu121\n[pip3] torchvision==0.19.1+cu121\n[pip3] triton==3.0.0\n[conda] nomkl                     1.0                  h5ca1d4c_0    conda-forge\n[conda] numpy                     1.26.4                   pypi_0    pypi\n[conda] optree                    0.12.1                   pypi_0    pypi\n[conda] torch                     2.4.1+cu121              pypi_0    pypi\n[conda] torchaudio                2.4.1+cu121              pypi_0    pypi\n[conda] torchvision               0.19.1+cu121             pypi_0    pypi\n[conda] triton                    3.0.0                    pypi_0    pypi",
+  "transformers_version": "4.45.2",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<|end_of_text|>",
+    "128001"
+  ],
+  "tokenizer_eos_token": [
+    "<|end_of_text|>",
+    "128001"
+  ],
+  "tokenizer_bos_token": [
+    "<|begin_of_text|>",
+    "128000"
+  ],
+  "eot_token_id": 128001,
+  "max_length": 8192,
+  "task_hashes": {},
+  "model_source": "hf",
+  "model_name": "HPAI-BSC/Llama3-Aloe-8B-Alpha",
+  "model_name_sanitized": "HPAI-BSC__Llama3-Aloe-8B-Alpha",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 160772.306156819,
+  "end_time": 161952.640771497,
+  "total_evaluation_time_seconds": "1180.334614678024"
+}
